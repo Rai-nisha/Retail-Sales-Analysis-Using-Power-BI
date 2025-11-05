@@ -105,7 +105,7 @@ These insights support **strategic decisions** regarding inventory, marketing, a
 
 ---
 
-## 🖼️ Example Dashboard
+## 🖼️ Final Dashboard
 ![Retail Sales Dashboard](Retail_Sales_Analysis_dashbard_print.png)  
 *Highlights: KPIs, category contribution, regional performance, and top-selling products.*
 
